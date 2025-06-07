@@ -45,3 +45,46 @@ Integer Data type
 2,3,4
 int a  = 3;(4 bytes)
 */
+
+/*
+Character Data type
+For storing characters like a,b,c then we use character data type
+char name = 'a'. it is of size 1 byte
+*/
+
+/*
+Boolean Data Type
+
+It is consists of two values either true or false.
+
+bool flag = true/false. it is of size 1 byte
+*/
+
+/*
+Floating point Data type
+decimals and exponential
+float rate = 5.34 {allowed till 7 decimal places}. it is of  4 bytes
+*/
+
+/*
+Double Floating Point Data type
+15 decimal places . it is of 8 bytes
+*/
+
+/*
+Void Data type
+Null or Nothing
+void function(){
+return;
+}
+*/
+
+/*
+Wide Character Data type
+it is of 2 bytes or 4 bytes
+*/
+
+/*
+String Data type
+string name = "Word". Dynamic memory allocated
+*/
