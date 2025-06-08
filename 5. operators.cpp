@@ -91,8 +91,15 @@ int main(){
     cout<<(num1>=num2)<<endl;
     return 0;
 }
+
 /* Logical Operators
 && (Logical And)
+expression1(true)  && expression2(true) then this entire expression is true
+in other case the entire expression becomes false
 || (Logical OR)
+expression1 (true) || expression 2 (true) then this entire expression is true 
+in other case the entire expression is false
 !(Logical Not)
+used on a single expression
+!expression1 = expression 2 true because !true = false ; !false = true
 */
