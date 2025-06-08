@@ -29,8 +29,4 @@ num1 / num 2
 
 % Modulus
 
-++ Increment
-
--- Decrement
-
 */
