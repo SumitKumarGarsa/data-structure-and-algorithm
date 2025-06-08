@@ -7,3 +7,24 @@ C++ operators :
 5. Bitwise Operator
 6. Misc Operator
 */
+
+/*
+Arithmetic Operator
+
++ Addition
+
+num1 + num2
+
+- Substraction
+
+num1 - num2
+
+* Multiplication
+
+num1 * num2 
+
+/ Division
+
+num1 / num 2
+
+*/
