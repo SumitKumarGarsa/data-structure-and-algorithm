@@ -103,3 +103,17 @@ in other case the entire expression is false
 used on a single expression
 !expression1 = expression 2 true because !true = false ; !false = true
 */
+
+#include<iostream>
+using namespace std;
+int main(){
+/* here we use bool because we are dealing in true and false in this entire 
+    expression */
+    bool exp1 = true;
+    bool exp2 = false;
+
+    cout<<(exp1&&exp2)<<endl; //false
+    cout<<(exp1||exp2)<<endl;//true
+    cout<<(!exp1)<<endl; //false
+    return 0;
+}
