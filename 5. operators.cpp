@@ -60,10 +60,34 @@ int main(){
 /*
 Relational Operators
 
-==
+== Is equals to
 
-!
+expression 1 == expression 2 true / false
 
->
+4 == 5 false
+4 == 4 true
+4 == '4'(integer) false
 
+! Not Equals to
+
+4 != 5  true
+4 != 4 false
+
+> Greater Than
+< Less than
+>= Greater than  equals to
+<= Less tah equals to
 */
+
+#include<iostream>
+using namespace std;
+int main(){
+    int num1 = 6;
+    int num2 = 3;
+
+    cout<<(num1==num2)<<endl; //false
+    cout<<(num1!=num2)<<endl; //true
+    cout<<(num1<=num2)<<endl;
+    cout<<(num1>=num2)<<endl;
+    return 0;
+}
