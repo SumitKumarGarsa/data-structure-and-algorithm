@@ -1,16 +1,8 @@
-/*
-Taking input form users
-int apples;
-cin >> apples;
-*/
 #include <iostream>
 using namespace std;
-
-int main(){
+int main() {
     int apples;
-    cin>>apples;
-    
-    cout<<"Number of apples : " <<apples<<endl;
-
+    cin >> apples;
+    cout << "Number of apples is " << apples << endl;
     return 0;
 }
