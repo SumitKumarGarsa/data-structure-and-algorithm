@@ -91,3 +91,8 @@ int main(){
     cout<<(num1>=num2)<<endl;
     return 0;
 }
+/* Logical Operators
+&& (Logical And)
+|| (Logical OR)
+!(Logical Not)
+*/
