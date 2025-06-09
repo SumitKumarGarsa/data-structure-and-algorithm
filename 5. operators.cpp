@@ -169,4 +169,7 @@ if we left shift a number by 1 then it gets multiplied by 2 for example
 
 if we right shift a number then at that situation the number gets divided by  2
 
+a << b  result  a x 2^b
+
+a >> b  result  a/2^b
 */
