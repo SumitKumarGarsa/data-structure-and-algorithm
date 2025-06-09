@@ -152,3 +152,10 @@ int main(){
 /= a\=1  a = a/1
 %= a%=1 a =  a%1
 */
+
+
+/* Bitwise Operators
+~ Bitwise Complement
+<< Left Shift
+>> Right Shift
+*/
