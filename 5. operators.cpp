@@ -155,7 +155,18 @@ int main(){
 
 
 /* Bitwise Operators
+~ 0 = 1 ~(0101) = 1010
+~ 1 = 0
 ~ Bitwise Complement
-<< Left Shift
+
+<< Left Shift 0101 << 1   =  1010
+if we left shift a number by 1 then it gets multiplied by 2 for example
+0100 << 1 = 1000
+
 >> Right Shift
+
+0100 >> 0010
+
+if we right shift a number then at that situation the number gets divided by  2
+
 */
