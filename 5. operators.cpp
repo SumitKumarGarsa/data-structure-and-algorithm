@@ -172,4 +172,40 @@ if we right shift a number then at that situation the number gets divided by  2
 a << b  result  a x 2^b
 
 a >> b  result  a/2^b
+
+Bitwise OR |
+
+1 | 1 = 1
+1 | 0 = 1
+0| 0 = 0
+
+Bitwise AND &
+
+ 1010
+&0110
+OUTPUT = 0010
+
+Bitwise exclusive OR ^
+
+0 ^ 0 = 0
+ 
+1^ 1 = 0
+
+
 */
+
+#include<iostream>
+using namespace std;
+int main(){
+
+    int num1 = 5;
+    cout<<(num1<<1)<<endl;
+    cout<<(num1>>1)<<endl;
+
+    int num2 = 8;
+    cout<<(num1&num2)<<endl;
+    cout<<(num1|num2)<<endl;
+    
+    return 0;
+
+}
