@@ -209,3 +209,31 @@ int main(){
     return 0;
 
 }
+
+/* Misc Operators
+Size of Operator
+
+int a = 4;
+sizeof(a) = 4 bytes
+
+Condition? Expression1:Expression2
+
+for example 
+
+int a;
+4 == 5 ?  a= 4 , a = 5
+
+Comma Operator
+
+int y = 4,3,6
+
+Dot and arrow operator
+
+.(used in classs) => (use in pointers)
+
+Casting operator
+
+& Address Operator
+
+*Pointer Operator
+*/
