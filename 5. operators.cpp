@@ -245,6 +245,7 @@ int(b) = 3
 Used for pointing an object 
 p = *a 
 
+*/
 code : => #include<iostream>
 using namespace std;
 int main(){
@@ -263,4 +264,3 @@ int main(){
     return 0;
 
 }
-*/
