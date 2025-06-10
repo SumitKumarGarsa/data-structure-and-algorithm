@@ -269,16 +269,57 @@ int main(){
 
 + Unary plus
 
+4
+
 - Unary minus
 
+-4
 
 ++ Increment Operator
 
+a++ or ++a
 
 -- Decremant Operator
 
+a-- or --a
 
 ! Logical Operator
 
+!true = false
+!1 = 0
+!100 = 0
+*/
+/*
+Post - Increment Opertor and Pre - Increment Operator
+a++ (post incremet) 
+
+In post increment first it written the value of a then it starts incrementing the value
+
+int a = 4
+cout<<(a++)<<endl; = 4
+
+++a(preincremet)
+
+In pre increment firstly the value  of a get incrementend then it written the value of a
+(++a) = 5
+*/
+Code : #include<iostream>
+using namespace std;
+int main(){
+    int a = 6;
+    cout<<(a++)<<endl;
+
+    int b = 5;
+    cout<<(--b)<<endl;
+    return 0;
+
+}
+/*
+C++ Operation Precedence and Associativity
+(BODMAS)
+4*2-1 (At this situaion of 2 we will see the presidence of 2)
+*/
+/*
+Associativity of Opertaors in C++
 
 */
