@@ -264,3 +264,21 @@ int main(){
     return 0;
 
 }
+
+/* Unary Operatrs
+
++ Unary plus
+
+- Unary minus
+
+
+++ Increment Operator
+
+
+-- Decremant Operator
+
+
+! Logical Operator
+
+
+*/
