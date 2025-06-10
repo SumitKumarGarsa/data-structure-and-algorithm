@@ -233,7 +233,34 @@ Dot and arrow operator
 
 Casting operator
 
+float b = 3.44
+int(b) = 3
+
 & Address Operator
 
+&a print the address of a in the memory
+
 *Pointer Operator
+
+Used for pointing an object 
+p = *a 
+
+code : => #include<iostream>
+using namespace std;
+int main(){
+
+    int a=4;
+    cout<<sizeof(a)<<endl;
+
+    char name='a';
+    cout<<sizeof (name)<<endl;
+
+    bool flag;
+    a==name? flag = true : flag =false;
+    cout<<flag<<endl;
+
+    cout<<(&a)<<endl;
+    return 0;
+
+}
 */
