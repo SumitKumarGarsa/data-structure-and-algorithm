@@ -321,5 +321,6 @@ C++ Operation Precedence and Associativity
 */
 /*
 Associativity of Opertaors in C++
-When we have two opertaor with same presinece then we use the concept of associativity
+When we have two opertaor with same presinece then we use the concept of associativity then which direction we need to carry out our operation from Left to Right or either from Right to Left
+Associativity Image linked in the same repository
 */
