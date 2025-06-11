@@ -1,0 +1,12 @@
+Cout  => Character output
+<< => insertion operator 
+cout << "Hello World"; {Print statement in C++} or printf("Hello");
+Code : 
+#include <iostream>
+int main() {
+
+    cout << "Hello, World!";
+
+    return 0;
+}
+Here int main() is a function in c++ programme.
