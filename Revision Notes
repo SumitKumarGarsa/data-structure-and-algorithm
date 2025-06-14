@@ -10,6 +10,7 @@ int main() {
     return 0;
 }
 Here int main() is a function in c++ programme.
+<<<<<<< Updated upstream
 
 
 /*
@@ -21,3 +22,6 @@ int main() { function (block of code)}
 return 0; (This tells the programme that the main function ends here)
 }
 */
+=======
+{}
+>>>>>>> Stashed changes
