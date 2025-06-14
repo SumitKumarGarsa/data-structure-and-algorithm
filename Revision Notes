@@ -16,5 +16,8 @@ Here int main() is a function in c++ programme.
 # = > Preprocessor Directives 
 #include (C++ preprocessor to include)<iostream>(header files{Some prewritten codes(basic input output functions)})
 using namespace std;(it tells us to use standard form of input output)
-
+int main() { function (block of code)}
+{
+return 0; (This tells the programme that the main function ends here)
+}
 */
