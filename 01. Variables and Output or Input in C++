@@ -11,7 +11,8 @@ Let's Start with
 
 cout<<"Hello World"; {This operator is used in c++ to print something in C++}
 
-Hello World Program
+Hello World Program :
+
 #include<iostream>
 using namespace std;
 int main()
@@ -20,3 +21,9 @@ int main()
   cout << "Hello World in C++";
   return 0;
 }
+
+Comments in C++
+
+//  For single line  commnet
+
+/* */ Used for multi line commentintg
