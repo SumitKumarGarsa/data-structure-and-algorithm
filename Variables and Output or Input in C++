@@ -1,0 +1,22 @@
+What we discuss today:
+1. C++ Output.
+2. C++ Vraiables.
+3. C++ Identifiers.
+4. C++ Data Types.
+5. C++ User Input.
+
+Let's Start with 
+
+1. C++ Output : 
+
+cout<<"Hello World"; {This operator is used in c++ to print something in C++}
+
+Hello World Program
+#include<iostream>
+using namespace std;
+int main()
+{
+  // prints hello world in C++
+  cout << "Hello World in C++";
+  return 0;
+}
