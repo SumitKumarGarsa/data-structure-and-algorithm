@@ -27,3 +27,5 @@ Comments in C++
 //  For single line  commnet
 
 /* */ Used for multi line commentintg
+
+#include<iostream> known as directive  these are processed by preprocessor{ preprocessor is a program that a compiler runs}
