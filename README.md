@@ -1,2 +1,7 @@
 # Data-Structure-and-Algorithm-in-Cpp
-C++ Data Structure and Algorithm from Stratch
+
+Course Break Down
+
+```
+01.  Variables and Output / Input in C++
+```
